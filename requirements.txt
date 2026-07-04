@@ -1,0 +1,11 @@
+# LLM Observability & Evaluation Platform — pinned-ish deps.
+# Everything runs offline; no paid APIs, no GPU.
+numpy>=1.26,<3
+pandas>=2.0,<3
+pyarrow>=14
+duckdb>=1.0
+scikit-learn>=1.3,<2
+scipy>=1.11
+matplotlib>=3.7
+polars>=1.0
+pytest>=7.4
