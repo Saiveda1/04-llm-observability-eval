@@ -15,9 +15,9 @@ product-grade dashboards.
 > **0.6–2.0 s each, out-of-core** on a single 4-core box. Architected for
 > **1B+ rows/month** — see [ARCHITECTURE.md](ARCHITECTURE.md).
 
-## Project Brief
+## Project Document
 
-- Visual PDF brief: [`PROJECT_DOCUMENT.pdf`](./PROJECT_DOCUMENT.pdf)
+- Research report: [`PROJECT_DOCUMENT.pdf`](./PROJECT_DOCUMENT.pdf)
 
 ## Screenshots
 
